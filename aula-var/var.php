@@ -7,7 +7,9 @@
 </head>
 <body>
     <?php
-        
+        $n = 10;
+        $name = "Lucas";
+        echo "{name} tem {n} anos."
     ?>
 </body>
 </html>
